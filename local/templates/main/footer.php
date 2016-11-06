@@ -26,7 +26,7 @@
     </div> <!-- end of templatemo_menu -->
 
     <div id="templatemo_middle">
-    	<img src="<?=SITE_TEMPLATE_PATH;?>/images/templatemo_image_01.png" alt="Image 01" />
+    	<img src="<?=SITE_TEMPLATE_PATH;?>/images/templatemo_image_01.png" width="400" height="200" alt="Image 01" />
     	<h1>Introducing Web Store</h1>
         <p><a href="http://www.templatemo.com" target="_parent">Web Store</a> is a free css template for your personal or commercial websites. Feel free to download, edit and use this template for any purpose.</p>
         <a href="#" class="buy_now">Browse All Products</a>
@@ -40,31 +40,31 @@
                     <div id="SlideItMoo_items">
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/1" target="_parent">
-                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/01.jpg" alt="product 1" /></a>
+                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/01.jpg" width="160" height="120" alt="product 1" /></a>
                         </div>
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/2" target="_parent">
-                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/02.jpg" alt="product 2" /></a>
+                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/02.jpg"  width="160" height="120" alt="product 2" /></a>
                         </div>
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/3" target="_parent">
-                                 <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/03.jpg" alt="product 3" /></a>
+                                 <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/03.jpg" width="160" height="120" alt="product 3" /></a>
                         </div>
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/4" target="_parent">
-                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/04.jpg" alt="product 4" /></a>
+                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/04.jpg" width="160" height="120" alt="product 4" /></a>
                         </div>
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/5" target="_parent">
-                               <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/05.jpg" alt="product 5" /></a>
+                               <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/05.jpg" width="160" height="120" alt="product 5" /></a>
                         </div>
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/6" target="_parent">
-                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/06.jpg" alt="product 6" /></a>
+                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/06.jpg" width="160" height="120" alt="product 6" /></a>
                         </div>
                         <div class="SlideItMoo_element">
                                 <a href="http://www.templatemo.com/page/6" target="_parent">
-                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/07.jpg" alt="product 7" /></a>
+                                <img src="<?=SITE_TEMPLATE_PATH;?>/images/gallery/07.jpg" width="160" height="120" alt="product 7" /></a>
                         </div>
                     </div>
                 </div>
@@ -101,55 +101,55 @@
 
         <div id="content">
         	<div class="col col_14 product_gallery">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/01.jpg" alt="Product 01" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/01.jpg" width="160" height="120" alt="Product 01" /></a>
                 <h3>Ut eu feugiat</h3>
                 <p class="product_price">$ 100</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/02.jpg" alt="Product 02" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/02.jpg" width="160" height="120" alt="Product 02" /></a>
                 <h3>Curabitur et turpis</h3>
                 <p class="product_price">$ 200</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery no_margin_right">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/03.jpg" alt="Product 03" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/03.jpg" width="160" height="120" alt="Product 03" /></a>
                 <h3>Mauris consectetur</h3>
                 <p class="product_price">$ 120</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/04.jpg" alt="Product 04" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/04.jpg" width="160" height="120" alt="Product 04" /></a>
                 <h3>Proin volutpat</h3>
                 <p class="product_price">$ 260</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/05.jpg" alt="Product 05" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/05.jpg" width="160" height="120" alt="Product 05" /></a>
                 <h3>Aenean tempus</h3>
                 <p class="product_price">$ 80</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery no_margin_right">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/06.jpg" alt="Product 06" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/06.jpg" width="160" height="120" alt="Product 06" /></a>
                 <h3>Nulla luctus urna</h3>
                 <p class="product_price">$ 193</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/07.jpg" alt="Product 07" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/07.jpg" width="160" height="120" alt="Product 07" /></a>
                 <h3>Pellentesque egestas</h3>
                 <p class="product_price">$ 30</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/08.jpg" alt="Product 08" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/08.jpg" width="160" height="120" alt="Product 08" /></a>
                 <h3>Suspendisse porttitor</h3>
                 <p class="product_price">$ 220</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
             </div>
             <div class="col col_14 product_gallery no_margin_right">
-            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/09.jpg" alt="Product 09" /></a>
+            	<a href="productdetail.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/product/09.jpg" width="160" height="120" alt="Product 09" /></a>
                 <h3>Nam vehicula</h3>
                 <p class="product_price">$ 65</p>
                 <a href="shoppingcart.html" class="add_to_cart">Add to Cart</a>
