@@ -27,11 +27,11 @@ $APPLICATION->SetTitle("Страница не найдена");?>
 			array(
 				"COMPONENT_TEMPLATE" => "tree",
 				"IBLOCK_TYPE" => "catalog",
-				"IBLOCK_ID" => "2",
+				"IBLOCK_ID" => "7",
 				"SECTION_ID" => $_REQUEST["SECTION_ID"],
 				"SECTION_CODE" => "",
 				"COUNT_ELEMENTS" => "Y",
-				"TOP_DEPTH" => "2",
+				"TOP_DEPTH" => "7",
 				"SECTION_FIELDS" => array(
 					0 => "",
 					1 => "",

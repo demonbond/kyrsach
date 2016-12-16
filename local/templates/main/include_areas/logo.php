@@ -1,1 +1,1 @@
-<div id="site_title"><h1><a href="http://www.templatemo.com">Free CSS Templates</a></h1></div>
+<div id="site_title"><h1><?if(!CSite::InDir('/')):?><a href="/"><?endif;?> <img src="<?=SITE_TEMPLATE_PATH;?>/images/logo.png" alt="Novux" /> <?if(!CSite::InDir('/')):?></a><?endif;?></div>
